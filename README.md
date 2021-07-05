@@ -2,13 +2,13 @@
 Script for Google Ads applying bid modifers to in-market audiences based on ROAS, CPA or CPC performance at campaign and audience level.
 Based on the Brainlabs script by Daniel Gilbert applying bid modifiers to in-market audiences based on CPA performance.
 
-# How to install this script in Google Ads:
+# How to install these script in Google Ads:
 
 1. Select an active Google Ads account (one that uses in-market audiences)
 2. Go to Tools > Bulk Actions > Scripts
 3. Add a new script
 4. Give it a name (e.g: "ROAS In Market Bid Modifer")
-5. Copy the entire content of the JavaScript file hosted in this github repository and paste it in your newly created Google Ads Script (replacing the 3 lines of code already present by default)
+5. Copy the entire content of the ROAS, CPA or CPC JavaScript file hosted in this github repository and paste it in your newly created Google Ads Script (replacing the 3 lines of code already present by default)
 6. Hit "save" and "preview" to verify the changes that it would apply to your bid modifiers.
 7. Hit "Run" to apply changes to your Google Ads account
 
