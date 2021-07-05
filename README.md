@@ -12,7 +12,7 @@ Based on the Brainlabs script by Daniel Gilbert applying bid modifiers to in-mar
 6. Hit "save" and "preview" to verify the changes that it would apply to your bid modifiers.
 7. Hit "Run" to apply changes to your Google Ads account
 
-# How to use these scripts in Google Ads:
+# How to use these scripts:
 
 At the top of each script are 4 editable parameters: 
 
