@@ -1,5 +1,5 @@
-# Google Ads Scripts ROAS In Market Bid Modifer Script
-Script for Google Ads applying bid modifers to in-market audiences based on ROAS performance at campaign and audience level.
+# Google Ads Scripts In Market Bid Modifer Script
+Script for Google Ads applying bid modifers to in-market audiences based on ROAS, CPA or CPC performance at campaign and audience level.
 Based on the Brainlabs script by Daniel Gilbert applying bid modifiers to in-market audiences based on CPA performance.
 
 # How to install this script in Google Ads:
